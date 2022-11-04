@@ -1,0 +1,3 @@
+import omg
+ 
+omg.login()
